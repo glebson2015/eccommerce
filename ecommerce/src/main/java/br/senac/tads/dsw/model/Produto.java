@@ -1,27 +1,29 @@
 
 package br.senac.tads.dsw.model;
-import br.senac.tads.dsw.annotation.Columm;
-import br.senac.tads.dsw.annotation.Table;
+
+
+
 
 
 /**
  *
  * @author MAI E GLEBSON
  */
-@Table(name = "produto")
+
 public class Produto{
-    @Columm(name = "nome")
+    
     private String nome;
-    
-    @Columm(name = "id")
+        
     private int id;
-    
-    @Columm(name = "descricao")
+        
     private String descricao;
-    
-    @Columm(name = "preco")
+        
     private float preco;
     
+    Produto(){
+    
+    
+    }    
     
     public String getNome() {
         return nome;
@@ -51,5 +53,7 @@ public class Produto{
     public void setPreco(float preco) {
         this.preco = preco;
     }
+    
+    
     
 }

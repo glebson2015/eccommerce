@@ -11,12 +11,12 @@
     <body>
         <div class="container-fluid">
             <div class="row">
-                <div class="col-xs-12 col-md-12 col-lg-12" name="Titulo">
+                <div class="col-sm-12" name="Titulo">
                     <h1 class="titulo">Jogos</h1>
                 </div>
             </div>
             <div class="row">
-                <div class="col-xs-12 col-md-4 col-lg-4">
+                <div class="col-xs-12 col-md-6 col-lg-4">
                     <article>
                         <img class="imagemJogo"
                              src="http://gamehall.uol.com.br/input/wp-content/gallery/xbo-capas/1ce94570e46af401a54bdd02b847e325.jpg"/>
@@ -25,7 +25,7 @@
 
                     </article>
                 </div>
-                    <div class="col-xs-12 col-md-4 col-lg-4">
+                    <div class="col-xs-12 col-md-6 col-lg-4">
                     <article>
                         <img class="imagemJogo"
                              src="http://img.ibxk.com.br/bj/assets/pictures/000/018/629/content_pic.jpg?w=1040?1371075739" />
@@ -34,7 +34,7 @@
 
                     </article>
                 </div>
-                    <div class="col-xs-12 col-md-4 col-lg-4">
+                    <div class="col-xs-12 col-md-6 col-lg-4">
                     <article>
                         <img class="imagemJogo"
                              src="http://s.glbimg.com/po/tt/f/original/2013/04/02/gta5-capa-rockstar_.jpg" />
@@ -43,7 +43,7 @@
 
                     </article>
                 </div>
-                    <div class="col-xs-12 col-md-4 col-lg-4">
+                    <div class="col-xs-12 col-md-6 col-lg-4">
                     <article>
                         <img class="imagemJogo"
                              src="http://1.bp.blogspot.com/--BvJuAa5S8I/UjsoL6SgrQI/AAAAAAAAAtU/W7LN7RqIkuk/s1600/boxshotuslargeh.jpg" />
@@ -52,7 +52,7 @@
 
                     </article>
                 </div>
-                    <div class="col-xs-12 col-md-4 col-lg-4">
+                    <div class="col-xs-12 col-md-6 col-lg-4">
                     <article>
                         <img class="imagemJogo"
                              src="http://link.estadao.com.br/blogs/que-mario/wp-content/uploads/sites/369/2010/07/castlevania_los_divcapa.jpg" />
@@ -61,7 +61,7 @@
 
                     </article>
                 </div>
-                    <div class="col-xs-12 col-md-4 col-lg-4">
+                    <div class="col-xs-12 col-md-6 col-lg-4">
                     <article>
                         <img class="imagemJogo"
                              src="https://www.meups4.com.br/wp-content/uploads/2017/05/495-Crash-Bandicoot-7-31-08-1996-Platformer.jpg" />
@@ -70,7 +70,7 @@
 
                     </article>
                 </div>
-                    <div class="col-xs-12 col-md-4 col-lg-4">
+                    <div class="col-xs-12 col-md-6 col-lg-4">
                     <article>
                         <img class="imagemJogo"
                              src="http://www.youthlinkjamaica.com/sites/default/files/Bioshock%202%20Pic1.jpg" />
@@ -79,7 +79,7 @@
 
                     </article>
                 </div>
-                    <div class="col-xs-12 col-md-4 col-lg-4">
+                    <div class="col-xs-12 col-md-6 col-lg-4">
                     <article>
                         <img class="imagemJogo"
                              src="https://www.digiseller.ru/preview/127999/p1_2027082_2202fe6a.jpg" />
@@ -88,7 +88,7 @@
 
                     </article>
                 </div>
-                    <div class="col-xs-12 col-md-4 col-lg-4">
+                    <div class="col-xs-12 col-md-6 col-lg-4">
                     <article>
                         <img class="imagemJogo"
                              src="http://cdn.trocajogo.net/files/gameplataforma/capa/20150809111011_fallout4_ps4.jpg" />
@@ -97,7 +97,7 @@
 
                     </article>
                 </div>
-                <div class="col-xs-12 col-md-4 col-lg-4">
+                <div class="col-xs-12 col-md-6 col-lg-4">
                     <article>
                         <img class="imagemJogo"
                              src="https://2.bp.blogspot.com/-GXHP6KBCOsw/WJpZryguDGI/AAAAAAAADbM/44T0UYYgEqo8_Uoe9-fu2MUasfN87ZI5ACLcB/s320/Rage%2BQuitter%2B-%2BResident%2BEvil%2B7%2B-%2BPS4%2Bbox.jpg" />
@@ -106,7 +106,7 @@
 
                     </article>
                 </div>
-                <div class="col-xs-12 col-md-4 col-lg-4">
+                <div class="col-xs-12 col-md-6 col-lg-4">
                     <article>
                         <img class="imagemJogo"
                              src="https://www.shockgames.com.br/media/catalog/product/cache/1/image/500x/9df78eab33525d08d6e5fb8d27136e95/c/o/cover_12.1501874157.jpg" />
@@ -115,7 +115,7 @@
 
                     </article>
                 </div>
-                <div class="col-xs-12 col-md-4 col-lg-4">
+                <div class="col-xs-12 col-md-6 col-lg-4">
                     <article>
                         <img class="imagemJogo"
                              src="https://www.shockgames.com.br/media/catalog/product/cache/1/image/500x/9df78eab33525d08d6e5fb8d27136e95/d/e/dead-by-day-light-ps4.1498507698.jpg" />
@@ -124,7 +124,7 @@
 
                     </article>
                 </div>
-                <div class="col-xs-12 col-md-4 col-lg-4">
+                <div class="col-xs-12 col-md-6 col-lg-4">
                     <article>
                         <img class="imagemJogo"
                              src="https://www.shockgames.com.br/media/catalog/product/cache/1/image/500x/9df78eab33525d08d6e5fb8d27136e95/c/o/cover_17_23.1502489812.jpg" />
@@ -133,7 +133,7 @@
 
                     </article>
                 </div>
-                <div class="col-xs-12 col-md-4 col-lg-4">
+                <div class="col-xs-12 col-md-6 col-lg-4">
                     <article>
                         <img class="imagemJogo"
                              src="https://www.shockgames.com.br/media/catalog/product/cache/1/image/500x/9df78eab33525d08d6e5fb8d27136e95/c/o/cover_17_16.1502488653.jpg" />
@@ -142,7 +142,7 @@
 
                     </article>
                 </div>
-                <div class="col-xs-12 col-md-4 col-lg-4">
+                <div class="col-xs-12 col-md-6 col-lg-4">
                     <article>
                         <img class="imagemJogo"
                              src="https://www.shockgames.com.br/media/catalog/product/cache/1/image/500x/9df78eab33525d08d6e5fb8d27136e95/c/o/cover_17_26.1502493306.jpg" />
@@ -151,7 +151,7 @@
 
                     </article>
                 </div>
-                <div class="col-xs-12 col-md-4 col-lg-4">
+                <div class="col-xs-12 col-md-6 col-lg-4">
                     <article>
                         <img class="imagemJogo"
                              src="https://www.shockgames.com.br/media/catalog/product/cache/1/image/500x/9df78eab33525d08d6e5fb8d27136e95/c/o/cover_22_8.1504048774.jpg" />
@@ -160,7 +160,7 @@
 
                     </article>
                 </div>
-                <div class="col-xs-12 col-md-4 col-lg-4">
+                <div class="col-xs-12 col-md-6 col-lg-4">
                     <article>
                         <img class="imagemJogo"
                              src="https://www.shockgames.com.br/media/catalog/product/cache/1/image/500x/9df78eab33525d08d6e5fb8d27136e95/c/o/cover_22_4.1504048775.jpg" />
@@ -169,7 +169,7 @@
 
                     </article>
                 </div>
-                <div class="col-xs-12 col-md-4 col-lg-4">
+                <div class="col-xs-12 col-md-6 col-lg-4">
                     <article>
                         <img class="imagemJogo"
                              src="https://www.shockgames.com.br/media/catalog/product/cache/1/image/500x/9df78eab33525d08d6e5fb8d27136e95/c/o/cover__1.1503942429.jpg" />
@@ -178,7 +178,7 @@
 
                     </article>
                 </div>
-                <div class="col-xs-12 col-md-4 col-lg-4">
+                <div class="col-xs-12 col-md-6 col-lg-4">
                     <article>
                         <img class="imagemJogo"
                              src="https://www.shockgames.com.br/media/catalog/product/cache/1/image/500x/9df78eab33525d08d6e5fb8d27136e95/c/o/cover_22_1.1503976153.jpg" />
@@ -187,7 +187,7 @@
 
                     </article>
                 </div>
-                <div class="col-xs-12 col-md-4 col-lg-4">
+                <div class="col-xs-12 col-md-6 col-lg-4">
                     <article>
                         <img class="imagemJogo"
                              src="https://www.shockgames.com.br/media/catalog/product/cache/1/image/500x/9df78eab33525d08d6e5fb8d27136e95/s/p/splatoon-2---switch-.1498489230.jpg" />
@@ -203,6 +203,7 @@
                     <img class="rodape" src="http://www.iguiconservas.com.br/SITE_IGUI/imagens/rodape.png"/>
                 </div>
             </div>
+           
         </div>      
 
         <link href="assets/css/bootstrap.css" rel="stylesheet" type="text/css"/>
